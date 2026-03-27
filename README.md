@@ -39,4 +39,27 @@ summary table every 10 packets showing protocol distribution.
 - https://ryu.readthedocs.io/
 - https://mininet.org/walkthrough/
 
+## Flow Table from the Mininet Terminal
 <img width="1217" height="511" alt="image" src="https://github.com/user-attachments/assets/ccf6c4ff-e2ad-4a50-9cf2-55bb6ce59885" />
+
+## Wireshark Screenshots
+
+## Wireshark ICMP
+<img width="1220" height="760" alt="image" src="https://github.com/user-attachments/assets/88dbdb8e-1c1b-4c9d-9976-a77159cb97b4" />
+
+## Wireshark TCP
+<img width="1220" height="760" alt="image" src="https://github.com/user-attachments/assets/8bdb7bf3-67f0-4ee7-bca7-2c7321445a56" />
+
+## Wireshark UDP
+<img width="1220" height="760" alt="image" src="https://github.com/user-attachments/assets/1ca485e0-7ff8-42e0-93dd-dbf39f88ef49" />
+
+## RYU Controller Logs
+<img width="1221" height="658" alt="image" src="https://github.com/user-attachments/assets/28a9ed23-d5e1-4d26-9d0f-926cc08c19d4" />
+
+## pingall result
+<img width="1212" height="27" alt="image" src="https://github.com/user-attachments/assets/ef0adc06-28e4-4ec8-81da-292ebf73975d" />
+<img width="1221" height="682" alt="image" src="https://github.com/user-attachments/assets/2379fa80-a596-40cf-aa9d-f3cf9b743619" />
+
+
+
+
