@@ -38,3 +38,5 @@ summary table every 10 packets showing protocol distribution.
 - https://mininet.org/overview/
 - https://ryu.readthedocs.io/
 - https://mininet.org/walkthrough/
+
+<img width="1217" height="511" alt="image" src="https://github.com/user-attachments/assets/ccf6c4ff-e2ad-4a50-9cf2-55bb6ce59885" />
